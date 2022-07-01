@@ -1,0 +1,15 @@
+/home/elroy/Documents/dotNET/encryptStringM1/bin/Debug/net6.0/encryptStringM1
+/home/elroy/Documents/dotNET/encryptStringM1/bin/Debug/net6.0/encryptStringM1.deps.json
+/home/elroy/Documents/dotNET/encryptStringM1/bin/Debug/net6.0/encryptStringM1.runtimeconfig.json
+/home/elroy/Documents/dotNET/encryptStringM1/bin/Debug/net6.0/encryptStringM1.dll
+/home/elroy/Documents/dotNET/encryptStringM1/bin/Debug/net6.0/encryptStringM1.pdb
+/home/elroy/Documents/dotNET/encryptStringM1/obj/Debug/net6.0/encryptStringM1.csproj.AssemblyReference.cache
+/home/elroy/Documents/dotNET/encryptStringM1/obj/Debug/net6.0/encryptStringM1.GeneratedMSBuildEditorConfig.editorconfig
+/home/elroy/Documents/dotNET/encryptStringM1/obj/Debug/net6.0/encryptStringM1.AssemblyInfoInputs.cache
+/home/elroy/Documents/dotNET/encryptStringM1/obj/Debug/net6.0/encryptStringM1.AssemblyInfo.cs
+/home/elroy/Documents/dotNET/encryptStringM1/obj/Debug/net6.0/encryptStringM1.csproj.CoreCompileInputs.cache
+/home/elroy/Documents/dotNET/encryptStringM1/obj/Debug/net6.0/encryptStringM1.dll
+/home/elroy/Documents/dotNET/encryptStringM1/obj/Debug/net6.0/refint/encryptStringM1.dll
+/home/elroy/Documents/dotNET/encryptStringM1/obj/Debug/net6.0/encryptStringM1.pdb
+/home/elroy/Documents/dotNET/encryptStringM1/obj/Debug/net6.0/encryptStringM1.genruntimeconfig.cache
+/home/elroy/Documents/dotNET/encryptStringM1/obj/Debug/net6.0/ref/encryptStringM1.dll

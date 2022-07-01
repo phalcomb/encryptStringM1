@@ -1,0 +1,2 @@
+/home/elroy/Documents/dotNET/encryptStringM1/bin/Release/net6.0/linux-arm64/publish/encryptStringM1.pdb
+/home/elroy/Documents/dotNET/encryptStringM1/bin/Release/net6.0/linux-arm64/publish/encryptStringM1

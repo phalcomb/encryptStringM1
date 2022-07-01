@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwebol7nMEwi2iUVtpJ0PYkgOPdnwmBKp+bCOH6nkYE1J/fVttYW2Eua4+yMzq38ZPR/6EfrCGW9uWda+bVCOw==",
+  "success": true,
+  "projectFilePath": "/home/elroy/Documents/dotNET/encryptStringM1/encryptStringM1.csproj",
+  "expectedPackageFiles": [
+    "/home/elroy/.nuget/packages/microsoft.netcore.app.runtime.linux-arm64/6.0.6/microsoft.netcore.app.runtime.linux-arm64.6.0.6.nupkg.sha512",
+    "/home/elroy/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-arm64/6.0.6/microsoft.aspnetcore.app.runtime.linux-arm64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
