@@ -8,6 +8,7 @@ namespace encryptString
     class Program
     {
         // Reading in any commandline parameters at startup
+        // ** Note: Will be adding interactive input in place of arguments
 
         static void Main(string[] args)
         {
