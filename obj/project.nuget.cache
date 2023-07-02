@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rwebol7nMEwi2iUVtpJ0PYkgOPdnwmBKp+bCOH6nkYE1J/fVttYW2Eua4+yMzq38ZPR/6EfrCGW9uWda+bVCOw==",
+  "dgSpecHash": "2hFEnUtg4PpE9xflD0lhEI9og97Fs4Ju6v/kjHR0vJYRPWbDOYvW2Qjo+0uYN9ty5SUFn5AASqbHb/tgbwJaTA==",
   "success": true,
-  "projectFilePath": "/home/elroy/Documents/dotNET/encryptStringM1/encryptStringM1.csproj",
+  "projectFilePath": "/Users/philip/Source/encryptStringM1/encryptStringM1.csproj",
   "expectedPackageFiles": [
-    "/home/elroy/.nuget/packages/microsoft.netcore.app.runtime.linux-arm64/6.0.6/microsoft.netcore.app.runtime.linux-arm64.6.0.6.nupkg.sha512",
-    "/home/elroy/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-arm64/6.0.6/microsoft.aspnetcore.app.runtime.linux-arm64.6.0.6.nupkg.sha512"
+    "/Users/philip/.nuget/packages/microsoft.netcore.app.runtime.osx-arm64/7.0.8/microsoft.netcore.app.runtime.osx-arm64.7.0.8.nupkg.sha512",
+    "/Users/philip/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-arm64/7.0.8/microsoft.aspnetcore.app.runtime.osx-arm64.7.0.8.nupkg.sha512"
   ],
   "logs": []
 }

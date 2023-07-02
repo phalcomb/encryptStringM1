@@ -1,0 +1,15 @@
+/Users/philip/Source/encryptStringM1/bin/Debug/net7.0/encryptStringM1
+/Users/philip/Source/encryptStringM1/bin/Debug/net7.0/encryptStringM1.deps.json
+/Users/philip/Source/encryptStringM1/bin/Debug/net7.0/encryptStringM1.runtimeconfig.json
+/Users/philip/Source/encryptStringM1/bin/Debug/net7.0/encryptStringM1.dll
+/Users/philip/Source/encryptStringM1/bin/Debug/net7.0/encryptStringM1.pdb
+/Users/philip/Source/encryptStringM1/obj/Debug/net7.0/encryptStringM1.csproj.AssemblyReference.cache
+/Users/philip/Source/encryptStringM1/obj/Debug/net7.0/encryptStringM1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philip/Source/encryptStringM1/obj/Debug/net7.0/encryptStringM1.AssemblyInfoInputs.cache
+/Users/philip/Source/encryptStringM1/obj/Debug/net7.0/encryptStringM1.AssemblyInfo.cs
+/Users/philip/Source/encryptStringM1/obj/Debug/net7.0/encryptStringM1.csproj.CoreCompileInputs.cache
+/Users/philip/Source/encryptStringM1/obj/Debug/net7.0/encryptStringM1.dll
+/Users/philip/Source/encryptStringM1/obj/Debug/net7.0/refint/encryptStringM1.dll
+/Users/philip/Source/encryptStringM1/obj/Debug/net7.0/encryptStringM1.pdb
+/Users/philip/Source/encryptStringM1/obj/Debug/net7.0/encryptStringM1.genruntimeconfig.cache
+/Users/philip/Source/encryptStringM1/obj/Debug/net7.0/ref/encryptStringM1.dll
